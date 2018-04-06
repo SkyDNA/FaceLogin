@@ -1,6 +1,6 @@
 name: FaceLogin
 main: Muqsit\FaceLogin
-api: [2.0.0, 3.0.0, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA67]
+api: [3.0.0-ALPHA11]
 version: 1.0.0
 author: Muqsit
 permissions:
